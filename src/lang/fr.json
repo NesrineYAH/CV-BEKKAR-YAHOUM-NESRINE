@@ -1,0 +1,48 @@
+{
+    "titre I" : "Nesrine BEKKAR",
+    "titre II" : "Développeuse web Frontend & Full-Stack ",
+    "titre III": "COMPÉTENCES TECHNIQUES",
+     "titre IIII": "EXPÉRIENCES PROFESSIONNELLES",
+     "titre VI": "FORMATIONS ET CERTIFICATIONS ",
+     "titre VII" :"LANGUES",
+     "titre VIII" :"CENTRE D’INTÉRÊTS",
+     "titre VVII" : "PROJETS RÉALISÉS", 
+
+    "skill" : {
+    "TI" : "Développement Frontend",
+    "TII" :"Développement Backend",
+    "TIII" :"Optimisation Web",
+    "TVII" :"Outils & Méthode"
+    },
+"experience" : {
+    "TI": "2023 - 2025: Développeuse Frontend, Full stack – Projets Personnels", 
+    "LiI": "Développement de sites web dynamiques avec JavaScript, Angular et React.js.",
+    "LiII":"Création d'applications mobiles et web optimisées grâce à l’implémentation du SEO.",
+   
+    "TII": "2018 - 2022: Gestion du commerce familial – Télétravail",
+    "Li_I" : "Développement de stratégies digitales pour améliorer la visibilité sur les réseaux sociaux et la gestion de la relation client en ligne, incluant le suivi des commandes.", 
+   
+    "TIII": "2011-2013 : Chargée Clientèle - Top Course Algérie :",
+    "Li-I": "Gestion d’un portefeuille clients, suivi des livraisons et amélioration de l’expérience utilisateur.",
+
+    "TVII": "2014-2017 : Téléconseillère – Mobilis (Opérateur Télécom)",
+    "Li-II" : "Assistance clientèle et résolution des problèmes techniques, réclamations et litiges."
+},
+"EDUCATION ": {
+    "LI": "2022 - 2023 : Développeur Web Frontend (BAC+2) – OpenClassrooms",
+    "LII": "2022: Formation WordPress – Attestation de Réussite ",
+    "LIII": "2023: Diplôme TOEIC B1 Anglais Professionnel – Linguaphone ",
+    "LVI": "2022: Diplôme DELF B2 - Ministère de l’Éducation Nationale",
+    "LVII": "2006 - 2011 : Licence en Sciences Commerciales et Financières (Marketing) – ESC Alger."
+},
+"projects": {
+    "ohmyfood": "Intégration d’une maquette pour créer et dynamiser une page web OHMYFOOD ",
+    "panthere": "Mise en place d’une optimisation SEO accessibilité et performance du site La Panthère ",
+    "picante": "Création d’une API sécurisée pour l'application d'avis gastronomiques PICANTE",
+    "kanap":"Construction d’un site e-commerce en JavaScript KANAP ",
+    "kasa": "Création d’un site de location d’appartements avec React.js et SASS KASA",
+    "petitPlats": "Création d’un site web de recettes de cuisine LES PETITS PLATS",
+    "Fisheye": "Création d’un site pour photographes indépendants FISHEYES",
+    "saas": "Débogage et test d’un SaaS RH "
+}
+}

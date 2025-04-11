@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: calc(10px + 0.5vmin);
+  line-height: 4%;
+  width: 94%;
+  overflow: hidden;
+  margin-bottom: 10%;
+}
+.Bloc {
+  width: 100%;
+}
+
+.Btn_lang {
+  border-radius: 2em;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 0 0.07em 0.07em rgba(0, 0, 0, 0.55);
+  transition: all 0.2s;
+  width: 48px;
+  height: 40px;
+  /* background-color: rgb(206, 206, 213);*/
+  border-radius: 40%;
+  box-shadow: -6px -6px -5px 0px #583e81, 6px 6px -6px 0 #0003;
+}
+.Btn_lang :hover {
+  font-weight: 500;
+  transform: scale(1.01);
+  cursor: pointer;
+}

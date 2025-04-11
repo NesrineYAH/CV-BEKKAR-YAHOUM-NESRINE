@@ -1,0 +1,48 @@
+{
+    "titre I" : "Nesrine BEKKAR",
+    "titre II" : "Frontend & Full-Stack Web Developer",
+    "titre III": "TECHNICAL SKILLS",
+    "titre IIII": "WORK EXPERIENCE",
+    "titre VI" :"EDUCATION & CERTIFICATIONS",
+    "titre VII" :"LANGUAGES",
+    "titre VIII" : "INTERESTS",
+    "titre VVII" : "PROJECTS",
+
+    "skill" : {
+      "TI" : "Frontend Development",
+    "TII" :"Backend Development",
+    "TIII" :"Web Optimization",
+    "TVII" :"Tools & Methods"  
+    },
+"experience" : {
+    "TI": "2023 - 2025: Frontend & Full-Stack Developer – Personal Projects", 
+    "LiI": "Developed dynamic websites using JavaScript, Angular, and React.js.",
+    "LiII":"Created optimized mobile and web applications by implementing SEO best practices.",
+   
+    "TII": "2018 - 2022: Family Business Management – Remote", 
+    "Li_I" : "Developed digital strategies to improve visibility on social media and managed online customer relations, including order tracking and support.",   
+   
+    "TIII": "2011-2013 : Chargée Clientèle - Top Course Algérie :",
+    "Li-I": "Managed a customer portfolio, monitored deliveries, and improved user experience.",
+
+    "TVII": "2014 - 2017: Call Center Agent – Mobilis (Telecom Operator)",
+    "Li-II": "Provided customer assistance and resolved technical issues, complaints, and disputes."
+},
+"EDUCATION ": {
+    "LI": "2022 - 2023: Frontend Web Developer (Associate Degree) – OpenClassrooms",
+    "LII": "2022: WordPress Training – Certificate of Completion",
+    "LIII": "2023: TOEIC B1 Professional English – Linguaphone",
+    "LVI": "2022: DELF B2 Diploma – French Ministry of National Education",
+    "LVII": "2006 - 2011: Bachelor’s Degree in Business and Finance (Marketing) – ESC Algiers"
+},
+"projects": {
+    "ohmyfood": "OHMYFOOD: Integrated a mockup to create and enhance a dynamic web page – [GitHub Link]",
+    "panthere": "La Panthère: Implemented SEO, accessibility, and performance optimization – [GitHub Link]",
+    "picante": "PICANTE: Developed a secure API for a restaurant review application – [GitHub Link]",
+    "kanap":"KANAP: Built an e-commerce website using JavaScript – [GitHub Link]", 
+    "kasa": "KASA: Created an apartment rental platform with React.js and SASS – [GitHub Link]",
+    "petitPlats": "LES PETITS PLATS: Developed a cooking recipe website – [GitHub Link]",
+    "Fisheye": "FISHEYES: Designed a photography portfolio website for freelancers – [GitHub Link]",
+    "saas": "HR SaaS Debugging & Testing: Debugged and tested an HR SaaS platform – [GitHub Link]"
+}
+}
