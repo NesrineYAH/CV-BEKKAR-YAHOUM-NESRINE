@@ -96,8 +96,8 @@ ul {
 
 @media screen and (max-width: 768px) {
   .App {
-    width: 80%;
-    margin: 0 -4% 0 4%;
+    width: 88%;
+    margin: 0 0 0 0%;
   }
 
   .MainApp {
@@ -114,6 +114,7 @@ ul {
     margin-top: 40%;
     color: #000;
     background-color: #f6f1f1;
+    overflow: hidden;
   }
   #Links {
     color: #000;
@@ -131,5 +132,6 @@ ul {
   #PartII {
     width: 100%;
     z-index: 1;
+    overflow: hidden;
   }
 }
