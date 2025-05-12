@@ -6,6 +6,7 @@
   align-self: center;
   row-gap: 2%;
 }
+
 .logo {
   height: 28vmin;
   width: 28vmin;
@@ -31,4 +32,26 @@ img {
 #container {
   width: 100%;
   margin-left: -25px;
+}
+@media screen and (max-width: 768px) {
+  #info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    margin-top: -20px;
+    width: 100%;
+    margin-left: -45px;
+  }
+
+  .logo {
+    height: 30vmin;
+    width: 30vmin;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    top: 4%;
+    left: 24%;
+    border-radius: 50%;
+  }
 }

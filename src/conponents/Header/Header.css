@@ -33,3 +33,16 @@
   transform: scale(1.01);
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .header {
+    position: absolute;
+    top: 12%;
+    font-size: calc(6px + 0.5vmin);
+    line-height: 4%;
+    width: 75%;
+    height: 8%;
+    display: flex;
+    text-align: center;
+  }
+}
